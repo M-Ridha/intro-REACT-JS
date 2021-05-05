@@ -9,7 +9,7 @@ import {GithubLoginButton} from 'react-social-login-buttons';
 
 function App() {
   return (
-    <div className="App">>
+    <div className="App"> 
       <div className =" hello">
       <h1>  Website Login  </h1>
       <h2> welcome </h2>
